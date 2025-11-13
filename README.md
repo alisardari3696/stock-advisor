@@ -1,6 +1,6 @@
 # STOCK ADVISOR DEMO
 
-A Python-based demo tool for visualizing cumulative growth of assets in Iran's market, including inflation, USD price, equal-weight index, and the stock "فملی".
+A Python-based demo tool for visualizing cumulative growth of assets in Iran's market, including inflation, USD price, equal-weight index, and the stock prices
 
 ## Features
 - Auto-fetches and caches financial data
