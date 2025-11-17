@@ -14,3 +14,5 @@ Run `stock_advisor.py` with Python 3.9+ and required libraries ( pip install fin
 
 ## Author
 Ali Sardari
+
+this was my first app its not optimized but as an exprience let it be here ,
